@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Develop Blog"
-date: 2019-11-04T11:32:34-09:00
+date: 2019-11-04T11:32:34-04:00
 author: Shin Minsu
 categories: dummy
 ---
